@@ -1,0 +1,36 @@
+#contact iframe
+{
+    width: 100%;
+}
+.Traveldiv {
+    border: 1px solid hotpink;
+
+}
+.Traveldiv img{
+    width: 80%;
+    
+}
+.movies_head{
+    font-size: 20px;
+    padding: 6px 22px ;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movies_head i {
+    float: right;
+
+}
+.movies_text span {
+    color: gold;
+}
+.book{
+    margin-bottom: 20px;
+   
+}
+.book img{
+    height: 400px;
+}
+#Aboutme iframe{
+    width: 100%;
+
+}
